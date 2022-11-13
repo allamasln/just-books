@@ -9,9 +9,17 @@
 
 ![Clean Code (Robert C. Martin)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg)
 
+3. Don't Make Me Think (Steve Krug)
+
+![Don't Make Me Think (Steve Krug)](https://m.media-amazon.com/images/I/51WS36aA2BL._SX387_BO1,204,203,200_.jpg)
+
 4. JavaScript: The Good Parts (Douglas Crockford)
 
 ![JavaScript: The Good Parts (Douglas Crockford)](https://m.media-amazon.com/images/I/81kqrwS1nNL._AC_UY327_FMwebp_QL65_.jpg)
+
+5. JavaScript: The Definitive Guide (David Flanagan)
+
+![JavaScript: The Definitive Guide](https://m.media-amazon.com/images/I/510JjoNTdOL._SX379_BO1,204,203,200_.jpg)
 
 6. Eloquent JavaScript (Marijn Haverbeke)
 
@@ -41,7 +49,7 @@
 
 ![Refactoring](https://pictures.abebooks.com/isbn/9780201485677-es.jpg)
 
-13. Grokking Simplicity: Taming Complex Software with Functional Thinking
+13. Grokking Simplicity: Taming Complex Software with Functional Thinking (Eric Normand)
 
 ![Grokking Simplicity: Taming Complex Software with Functional Thinking](https://m.media-amazon.com/images/I/61Xv2kgSMnS._SX397_BO1,204,203,200_.jpg)
 
@@ -52,7 +60,3 @@
 15. Design Patterns (Gamma Erich, Grady Booch, ...)
 
 ![Design Patterns](https://m.media-amazon.com/images/I/51kuc0iWoKL.jpg)
-
-16. Don't Make Me Think (Steve Krug)
-
-![Don't Make Me Think (Steve Krug)](https://m.media-amazon.com/images/I/51WS36aA2BL._SX387_BO1,204,203,200_.jpg)
