@@ -8,3 +8,12 @@
 2. Clean Code (Robert C. Martin)
 
 ![Clean Code (Robert C. Martin)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg)
+
+4. JavaScript: The Good Parts (Douglas Crockford)
+
+![JavaScript: The Good Parts (Douglas Crockford)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg)
+
+6. Eloquent JavaScript (Marijn Haverbeke)
+
+![Eloquent JavaScript (Marijn Haverbeke)]([https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg)
+
