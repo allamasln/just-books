@@ -24,3 +24,35 @@
 8.Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein)
 
 ![Introduction to Algorithms](https://m.media-amazon.com/images/I/41VndKVtiXL._SX198_BO1,204,203,200_QL40_ML2_.jpg)
+
+9. Scrum: The Art of Doing Twice the Work in Half the Time (Jeff Sutherland)
+
+![Scrum: The Art of Doing Twice the Work in Half the Time (Jeff Sutherland)](https://m.media-amazon.com/images/I/41EnYFbrDdL._SX324_BO1,204,203,200_.jpg)
+
+10. Code Complete (Steve McConnell)
+
+![Code Complete (Steve McConnell)](https://m.media-amazon.com/images/I/51FUYfErOXL._SX408_BO1,204,203,200_.jpg)
+
+11. Object-Oriented Analysis and Design with Applications (Grady Booch)
+
+![Object-Oriented Analysis and Design with Applications (Grady Booch)](https://m.media-amazon.com/images/I/51l8wcgd-RL._SX398_BO1,204,203,200_.jpg)
+
+12. Refactoring (Martin fowler)
+
+![Refactoring](https://pictures.abebooks.com/isbn/9780201485677-es.jpg)
+
+13. Grokking Simplicity: Taming Complex Software with Functional Thinking
+
+![Grokking Simplicity: Taming Complex Software with Functional Thinking](https://m.media-amazon.com/images/I/61Xv2kgSMnS._SX397_BO1,204,203,200_.jpg)
+
+14. Test Driven Development: By Example (Kent Beck)
+
+![Test Driven Development: By Example (Kent Beck)](https://m.media-amazon.com/images/I/51GGLEZlGqL._SX515_BO1,204,203,200_.jpg)
+
+15. Design Patterns (Gamma Erich, Grady Booch, ...)
+
+![Design Patterns](https://m.media-amazon.com/images/I/51kuc0iWoKL.jpg)
+
+16. Don't Make Me Think (Steve Krug)
+
+![Don't Make Me Think (Steve Krug)](https://m.media-amazon.com/images/I/51WS36aA2BL._SX387_BO1,204,203,200_.jpg)
