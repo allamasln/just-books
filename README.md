@@ -17,3 +17,10 @@
 
 ![Eloquent JavaScript (Marijn Haverbeke)](https://eloquentjavascript.net/img/cover.jpg)
 
+7. You Don't Know JS: ES6 & Beyond (Kyle Simpson)
+
+![You Don't Know JS: ES6 & Beyond (Kyle Simpson)](https://m.media-amazon.com/images/I/410+tmN-P+L._SX331_BO1,204,203,200_.jpg)
+
+8.Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein)
+
+![Introduction to Algorithms](https://m.media-amazon.com/images/I/41VndKVtiXL._SX198_BO1,204,203,200_QL40_ML2_.jpg)
