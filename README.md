@@ -3,7 +3,7 @@
 
 1. The Pragmatic Programmer: Your Journey to Mastery (David Thomas y Andrew Hunt)
 
-![Clean Code (Robert C. Martin)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099.jpg)
+![The Pragmatic Programmer: Your Journey to Mastery (David Thomas y Andrew Hunt)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099.jpg)
 
 2. Clean Code (Robert C. Martin)
 
@@ -11,9 +11,9 @@
 
 4. JavaScript: The Good Parts (Douglas Crockford)
 
-![JavaScript: The Good Parts (Douglas Crockford)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg)
+![JavaScript: The Good Parts (Douglas Crockford)](https://m.media-amazon.com/images/I/81kqrwS1nNL._AC_UY327_FMwebp_QL65_.jpg)
 
 6. Eloquent JavaScript (Marijn Haverbeke)
 
-![Eloquent JavaScript (Marijn Haverbeke)]([https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg)
+![Eloquent JavaScript (Marijn Haverbeke)](https://eloquentjavascript.net/img/cover.jpg)
 
