@@ -1,1 +1,1 @@
-# Essentials Books for Software Engineers
+# Essential Books for Software Engineers
