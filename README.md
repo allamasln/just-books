@@ -1,4 +1,4 @@
-# Essential Books for Javascript Engineers
+# Essential Books for JavaScript Engineers
 
 
 1. The Pragmatic Programmer: Your Journey to Mastery (David Thomas y Andrew Hunt)
